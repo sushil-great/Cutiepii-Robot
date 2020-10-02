@@ -18,15 +18,15 @@ class Config(object):
     API_ID = 123456  # integer value, dont use ""
     API_HASH = "awoo"
     TOKEN = "BOT_TOKEN"  #This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 792109647  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "Sawada"
-    SUPPORT_CHAT = 'OnePunchSupport'  #Your own group for support, do not add the @
+    OWNER_ID = 974650192  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "Wadiwala_tech"
+    SUPPORT_CHAT = 'Cutiepii_Support'  #Your own group for support, do not add the @
 
     #RECOMMENDED
 
     SQLALCHEMY_DATABASE_URI = 'something://somewhat:user@hosturl:port/databasename'  # needed for any database modules
     MESSAGE_DUMP = -1001253661229  # needed to make sure 'save from' messages persist
-    GBAN_LOGS = -1001190806654
+    GBAN_LOGS = -1001408942668
     LOAD = []
     NO_LOAD = ['rss', 'cleaner', 'connection', 'math']
     WEBHOOK = False
