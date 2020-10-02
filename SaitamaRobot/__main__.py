@@ -55,6 +55,9 @@ Hi {}, my name is {}!
 I am an Anime themed group management bot.
 Build by weebs for weebs, I specialize in managing anime and similar themed groups.
 You can find my list of available commands with /help.
+
+Maintained by @Wadiwala_Tech
+
 """
 
 HELP_STRINGS = """
